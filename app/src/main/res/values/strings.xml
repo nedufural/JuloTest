@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="ok">OK</string>
+    <string name="cancel_str">CANCEL</string>
+    <string name="city">Cities</string>
+    <string name="favourite">favourites</string>
+    <string name="weather">Weather</string>
+    <string name="forecast">Forecast for next 3 days</string>
+    <string name="save_favorite">save favourite</string>
+    <string name="item_deleted_undo">undo</string>
+</resources>
