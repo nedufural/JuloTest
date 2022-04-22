@@ -1,6 +1,4 @@
-# JuloTest
 
-This repo hold the solution to the take home give.
 It was written in MVVM using Coroutine, Livedata, ViewModels. Kindly clone and review for your perusal.
 
 The project structure is as follows
@@ -22,7 +20,7 @@ The project structure is as follows
  
  * For Dependency Injection KOIN was used for it's simplicity 
  
- * The Architecture used was MVVM modelled in clean architecture format.  Multiple modules was not implemented to save development time, but this structure is transferrable to a multiple module structure.
+ * The Architecture used was MVVM modelled in clean architecture format.  Multiple modules was not implemented but this structure is transferrable to a multiple module structure.
 
  * 
 ![screen3](https://github.com/nedufural/JuloTest/blob/master/img_1.png)
